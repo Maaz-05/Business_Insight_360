@@ -26,7 +26,7 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Displayed last refresh date and sales data availability information for report transparency.
 
 ### Home View Preview
-![Home View][Uploading Business_Insights360.pdf…]()
+![Home View]()
 
 
 ---
