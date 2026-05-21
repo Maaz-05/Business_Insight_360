@@ -1,3 +1,4 @@
+
 # Business Insights 360
 
 ## Problem Statement
@@ -12,7 +13,7 @@ The objective of this project was to build an end-to-end Business Intelligence s
 
 ---
 
-# Live Dashboard
+## Live Dashboard
 
 [🔗 View Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmFhZmQzMTctYzNiNS00MzRiLTliY2UtZTMwMGU4MDY4YjQ2IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
@@ -25,8 +26,8 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Added interactive buttons and navigation icons for better user experience.
 - Displayed last refresh date and sales data availability information for report transparency.
 
-### Home View Preview
-![Home View]()
+### Preview
+<img width="8000" height="4564" alt="Home_View" src="https://github.com/user-attachments/assets/7460f28e-c6d2-437b-83b3-d20fdda3d103" />
 
 
 ---
@@ -36,8 +37,10 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Created KPI visuals for Net Sales, Gross Margin %, and Net Profit % against benchmark values.
 - Built Top & Bottom customer and product analysis based on Net Sales contribution.
 
-### Finance View Preview
-![Finance View](images/finance_view.png)
+### Preview
+<img width="8000" height="4564" alt="Finance_View" src="https://github.com/user-attachments/assets/e5da8887-cefb-48d9-ab1f-0fbf71fe344d" />
+
+
 
 ---
 
@@ -46,8 +49,8 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Created performance matrix visuals to identify high-performing customers and products.
 - Designed key metric visualizations for COGS, Gross Margin, and invoice deductions.
 
-### Sales View Preview
-![Sales View](images/sales_view.png)
+### Preview
+<img width="8000" height="4564" alt="Sales_View" src="https://github.com/user-attachments/assets/115153c6-2301-4f01-a8ce-c838f4fb0115" />
 
 ---
 
@@ -56,8 +59,9 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Developed profitability matrices and unit economics visuals for strategic marketing insights.
 - Built waterfall and donut charts to visualize operational expenses and profit distribution.
 
-### Marketing View Preview
-![Marketing View](images/marketing_view.png)
+### Preview
+<img width="8000" height="4564" alt="Market_View" src="https://github.com/user-attachments/assets/4abdaca5-a4e5-4f7e-8950-bec4d6079a50" />
+
 
 ---
 
@@ -66,8 +70,9 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Designed trend analysis visuals for supply chain performance monitoring.
 - Generated product-level KPI insights to support operational planning and inventory decisions.
 
-### Supply Chain View Preview
-![Supply Chain View](images/supply_chain_view.png)
+### Preview
+<img width="8000" height="4564" alt="Supply_View" src="https://github.com/user-attachments/assets/49c83643-cf9a-4564-bd20-6adcf9ecc727" />
+
 
 ---
 
@@ -76,17 +81,14 @@ The objective of this project was to build an end-to-end Business Intelligence s
 - Visualized yearly trends for Net Sales, Gross Margin %, Net Profit %, and Market Share %.
 - Built revenue distribution reports across divisions, channels, and regions.
 
-### Executive View Preview
-![Executive View](images/executive_view.png)
+### Preview
+<img width="8000" height="4564" alt="Executive_View" src="https://github.com/user-attachments/assets/406068e9-f6b4-43d2-8c78-61438e37db7e" />
 
 ---
 
 ## Product View
 - Created Top 5 and Bottom 5 product analysis reports using Gross Margin performance.
 - Implemented conditional formatting to identify customers achieving target profitability goals.
-
-### Product View Preview
-![Product View](images/product_view.png)
 
 ---
 
