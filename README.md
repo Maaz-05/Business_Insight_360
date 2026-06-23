@@ -92,6 +92,13 @@ The objective of this project was to build an end-to-end Business Intelligence s
 
 ---
 
+
+## Data Model
+<img width="1471" height="820" alt="Screenshot 2026-06-23 134016" src="https://github.com/user-attachments/assets/3846e518-feee-4672-9ebf-c00d03e1cc72" />
+Incorporating 10+ Tables
+
+---
+
 # Data Source Details
 
 Understanding the available data before analysis was essential for building accurate dashboards and generating meaningful business insights.
